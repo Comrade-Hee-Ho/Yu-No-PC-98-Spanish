@@ -2722,7 +2722,7 @@
                                      (<> (set-var C 63) (proc 49)))
                                  (proc 90)
                                  (text "Ajusta　el　fondo　del　menú　principal.　Escoge　al\n")
-                                 (text "\"al　azar\"　para　mostrar　imagenes　aleatorias　al")
+                                 (text "\"al　azar\"　para　mostrar　imagenes　aleatorias　al\n")
 								 (text "iniciar　el　juego.")
                                  (proc 92)
                                  (set-reg: 1501 0)
