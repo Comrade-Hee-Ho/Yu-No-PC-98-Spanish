@@ -116,9 +116,9 @@
         (if (!= S K) (<> (proc 30) (set-var S K) (proc 30)))))))
  (menu-show (<>
              (set-arr~ @ 21 272)
-             (text "　　　　　Jugar　versión　a　color")
+             (text "     Jugar versión a color")
              (cut)
-             (text "　　　Jugar　versión　monocromática")))
+             (text "  Jugar versión monocromática")))
  (if-else (== S 0)
           (<> (set-arr~ @ 9 (&& (~ @ 9) 65503)))
           (<> (set-arr~ @ 9 (// (~ @ 9) 32))))
